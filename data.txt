@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 Wilayah Banten
+per Saturday, 01-05-2021, 03:09:12
+M. Arif Muharam   171011402282
+
+| Positif | Dirawat | Sembuh  | Meninggal |
+| 402.205 |  3.322  | 393.205 |   6.679   |
